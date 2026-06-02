@@ -1,3 +1,8 @@
 spring:
   application:
     name: springsecurity
+
+  security:
+    user:
+      name: bunny
+      password:
