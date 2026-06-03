@@ -1,4 +1,4 @@
-package com.hemanthjangam.springsecurity;
+package com.hemanthjangam.springsecurity.controller;
 
 import jakarta.servlet.http.HttpServletRequest;
 import jakarta.servlet.http.HttpServletResponse;
